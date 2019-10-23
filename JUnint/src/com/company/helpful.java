@@ -8,7 +8,6 @@ public class helpful {
 
 
     public int sumArray(int inputA, int inputB) {
-        int sum = 0;
-        return sum + inputA + inputB;
+        return inputA + inputB;
     }
 }
